@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClInclude Include="Merge.h" />
     <ClInclude Include="MergeInterval.h" />
+    <ClInclude Include="nextPermutation.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

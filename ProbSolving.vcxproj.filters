@@ -31,5 +31,8 @@
     <ClInclude Include="MergeInterval.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="nextPermutation.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

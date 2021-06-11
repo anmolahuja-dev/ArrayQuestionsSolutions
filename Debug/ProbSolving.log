@@ -1,4 +1,5 @@
 ﻿  ProbSolving.cpp
 C:\Users\anmol\source\repos\ProbSolving\ProbSolving\Merge.h(12,16): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
-C:\Users\anmol\source\repos\ProbSolving\ProbSolving\ProbSolving.cpp(24,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\ProbSolving\ProbSolving\nextPermutation.h(7,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\anmol\source\repos\ProbSolving\ProbSolving\nextPermutation.h(19,12): warning C4101: 'temp': unreferenced local variable
   ProbSolving.vcxproj -> C:\Users\anmol\source\repos\ProbSolving\Debug\ProbSolving.exe
