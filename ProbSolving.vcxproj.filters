@@ -34,5 +34,8 @@
     <ClInclude Include="nextPermutation.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="getPairsCount.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

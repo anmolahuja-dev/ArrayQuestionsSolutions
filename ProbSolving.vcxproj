@@ -145,6 +145,7 @@
     <Text Include="misc.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="getPairsCount.h" />
     <ClInclude Include="Merge.h" />
     <ClInclude Include="MergeInterval.h" />
     <ClInclude Include="nextPermutation.h" />
