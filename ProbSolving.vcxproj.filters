@@ -37,5 +37,11 @@
     <ClInclude Include="getPairsCount.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="commonElement.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="rearrangeArray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

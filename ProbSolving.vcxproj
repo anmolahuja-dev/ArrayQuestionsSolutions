@@ -145,10 +145,12 @@
     <Text Include="misc.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="commonElement.h" />
     <ClInclude Include="getPairsCount.h" />
     <ClInclude Include="Merge.h" />
     <ClInclude Include="MergeInterval.h" />
     <ClInclude Include="nextPermutation.h" />
+    <ClInclude Include="rearrangeArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
