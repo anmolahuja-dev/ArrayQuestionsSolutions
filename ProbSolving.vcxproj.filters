@@ -43,5 +43,8 @@
     <ClInclude Include="rearrangeArray.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="subArraySum0.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -12,15 +12,13 @@ using namespace std;
 #include"getPairsCount.h"
 #include"commonElement.h"
 #include"rearrangeArray.h"
-
+#include"subArraySum0.h"
 
 
 
 int main()
 {
-    vector<int>arr{ -5,-2,5,2,4,7,1,8,0,-8};
-    rearrangeArray(arr);
-    for (auto it : arr) {
-        cout << it<<" , ";
-    }
+    int arr[] = { 4,2,-3,1,6 };
+    cout << subArrayExists(arr, sizeof(arr) / sizeof(arr[0]));
+
 }
